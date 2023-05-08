@@ -39,7 +39,6 @@ Estamos procurando por profissionais que sejam apaixonados por desenvolvimento e
 - Vale Refeição ou Vale Alimentação;
 - Gympass;
 - Equipe unida, divertida e apaixonada por pizza;
-- Horário flexível
 - Emendas em feriados nacionais.
 
 ## Contratação
