@@ -11,23 +11,23 @@ Desafiamos você a criar uma aplicação web usando o framework PHP Laravel e um
 Sua aplicação deverá conter:
 
 1) Criar um banco de dados com as seguintes tabelas:
-- Empresas
-- Categorias
-- Usuarios
+ - Empresas
+ - Categorias
+ - Usuarios
 
 2) Criar as relações entre as tabelas:
-- Um usuario pode ter várias empresas 
-- Uma empresa pode ter várias categorias
-- Uma categoria pode ter várias empresas
-- Uma empresa pertence a um usuario
+ - Um usuario pode ter várias empresas 
+ - Uma empresa pode ter várias categorias
+ - Uma categoria pode ter várias empresas
+ - Uma empresa pertence a um usuario
 
 3) Criar as seguintes funcionalidades:
-- Cadastro, edição, exclusão e listagem de empresas
-- Cadastro, edição, exclusão e listagem de categorias
-- Cadastro, edição, exclusão e listagem de usuarios
-- Filtragem e ordenação das empresas por categoria, nome e cidade
-- Validação dos campos obrigatórios
-- Paginação de 20 itens por página
+ - Cadastro, edição, exclusão e listagem de empresas
+ - Cadastro, edição, exclusão e listagem de categorias
+ - Cadastro, edição, exclusão e listagem de usuarios
+ - Filtragem e ordenação das empresas por categoria, nome e cidade
+ - Validação dos campos obrigatórios
+ - Paginação de 20 itens por página
 
 ## Banco de dados
 
